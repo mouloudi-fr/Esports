@@ -36,7 +36,7 @@
 		                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
 		                    
 		                    <ul class="dropdown-menu">
-		                        <li> <a href="about-us.html">About Us</a> </li>
+		                        <li> <a href="connexion.php">About Us</a> </li>
 				                <li><a href="team.html">Team</a></li>
 				                <li> <a href="blog.html">Blog</a> </li>
 
@@ -75,7 +75,7 @@
 							</header>
 							<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 							<ul class="actions">
-								<li><a href="about-us.html" class="button next">Read more</a></li>
+								<li><a href="connexion.php" class="button next">Read more</a></li>
 							</ul>
 						</div>
 					</section>
