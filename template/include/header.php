@@ -24,24 +24,20 @@
 					<ul class="links">
 		                <li class="active"> <a href="index.html">Accueil </a> </li>
 
-		                <li> <a href="products.html">Products</a> </li>
+		                <li> <a href="products.html">Mon profil</a> </li>
 
-		                <li> <a href="checkout.html">Checkout</a> </li>
+		                <li> <a href="checkout.html">Mes équipes</a> </li>
 
-		                <li><a href="contact.html">Contact Us</a></li>
+		                <li><a href="contact.html">Rejoindre une équipe</a></li>
+				
+				<li><a href="contact.html">Créer une équipe</a></li>
 
-		                <li class="dropdown">
-		                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
-		                    
-		                    <ul class="dropdown-menu">
-		                        <li> <a href="about-us.html">About Us</a> </li>
-				                <li><a href="team.html">Team</a></li>
-				                <li> <a href="blog.html">Blog</a> </li>
+				<li><a href="contact.html">Liste des tournois</a></li>
 
-				                <li><a href="testimonials.html">Testimonials</a></li>
-				                
-				                <li><a href="terms.html">Contactez nous</a></li>
-		                    </ul>
-		                </li>
+				<li><a href="contact.html">Rejoindre un tournois</a></li>
+
+				<li><a href="contact.html">Créer un tournois</a></li>
+
+
             		</ul>
 				</nav>
